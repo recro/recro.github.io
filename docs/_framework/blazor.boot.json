@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Markdig.dll": "sha256-D\/OBA4zo0INLL9\/iVDsWd6RQdpY0+BwlL7cefGhZ8Ac=",
-      "Medulla.Documentation.Client.dll": "sha256-\/FwKRJwZxqkanVPEpJQRQD20WF98ndujk03kN8F\/+m0=",
+      "Medulla.Documentation.Client.dll": "sha256-olI8a3BPFKrVTkzizVSRXpRsae6vPGRAkSvibtGpr44=",
       "Medulla.Presentation.Assets.dll": "sha256-IcbbH+Md7InCsqiqJXQxWpU0c6vTt+TFSJ80rXDNe2s=",
       "Microsoft.AspNetCore.Components.dll": "sha256-WgjPOwn8y6zNltEb8M5noJchwrLVcBV0I\/mzyqa7CFc=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-Rc4SXhh3GmZrDWhke4Q5ysoGpUO2dJmoZk5OqQm\/9h8=",
