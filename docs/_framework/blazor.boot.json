@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Markdig.dll": "sha256-BNSZ00aLWXFB8QoGhzD27ccFNDep2eokBa0eZIRTNbY=",
-      "Medulla.Documentation.Client.dll": "sha256-LepeC25uAkARLRfJBntl1LElf7CiwPo2rPzTZ3gtGX8=",
+      "Markdig.dll": "sha256-\/qKhOo2ZbkSd56j45qUCUGYRyBMnR0dmDkWfZfLJKeo=",
+      "Medulla.Documentation.Client.dll": "sha256-mKCG8HhLxiEQJrt8vQqU\/l5D+w3FgIk9u5Fs0Zql+YY=",
       "Medulla.Presentation.Assets.dll": "sha256-u44d2FwzltTzRXLg5uvjPpJqFyl+6+soXASUEabzWYM=",
       "Microsoft.AspNetCore.Components.dll": "sha256-BB1U\/pboH7AaVw5eF4sTLFIcVgp0RaW991l3+dC9wlI=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-FfBmsPyVhe+vPTlCK+AQZ78kh6aACHO2oVttl0CoJwQ=",
@@ -44,7 +44,7 @@
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-eDu7uq70bXhYBLzeX2yI65vzZI267ViRqEDb3jHhFQI=",
       "System.Private.Uri.dll": "sha256-Uu676u62P5fvFJiq8BVAgkrfn6aj+2SSp\/Sftu4sKGo=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-d\/NXIehjfKYMg\/5WWIE87YQfmOXmJGr5JB\/mKHF+tMY=",
-      "System.Runtime.dll": "sha256-A+dfKNkxZxPOJTDYVsXY6W85zReUgIv4ZrXvlmjxIvM=",
+      "System.Runtime.dll": "sha256-6SbOd8rlXCG3k+E1iTK4Y2fYVlUrz8uiEMj6+YzfoYc=",
       "System.Runtime.InteropServices.dll": "sha256-j\/bYXm1QKeufctGJ9GUVY1XUCaUawlQqqQU0+6nzyZQ=",
       "System.Runtime.Intrinsics.dll": "sha256-GedJWoC++\/NKy07kPU13OnIaEVDRxJ\/Yi+IdL7CfCRc=",
       "System.Text.Encodings.Web.dll": "sha256-\/4vFBsI1atbrhKlq4SBdTWgTOMLy5FhvSNuqe1kOKZs=",
