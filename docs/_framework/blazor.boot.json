@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Markdig.dll": "sha256-Yw+GRvxgz3z1q0RtGw3n9XUh1wzzAOQJ7uMJJAJs770=",
-      "Medulla.Documentation.Client.dll": "sha256-eQ4iVVAQWJL6mmKl0z5gZCiGesl\/koTovoSnMmuGoUU=",
+      "Medulla.Documentation.Client.dll": "sha256-7Zn\/vamBcAxb8sZo6bWRWgI0H\/1al9Rl\/ik5OvkVTT8=",
       "Medulla.Presentation.Assets.dll": "sha256-DFNf+7v659bY5LHIvBRETp9gkHZ0e3U\/30yRGJ7pCUo=",
       "Microsoft.AspNetCore.Components.dll": "sha256-wy0R+AQqvlKjmRkrS6Lysh4hmWOnPPvX2v0uea6rZPg=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-f7Qmq2sT0qIT4TMHFaT6eJO0PmTQDCIdwTK7BfuZVvo=",
@@ -52,7 +52,7 @@
       "System.Text.RegularExpressions.dll": "sha256-Mq89XrkvwIXepJE+vRFQNPo+zSwayZjeSrvDujpl8sw=",
       "System.Threading.dll": "sha256-Zg2elRdcpdZwKwLx0NtaEyaI+S8WJ9i2Vp\/OcxpXNIQ=",
       "System.Web.HttpUtility.dll": "sha256-i7ylFEovNNMd15OLwWClL5u\/AA5yOUMorJcO9e6C4n4=",
-      "YamlDotNet.dll": "sha256-5SRsgOzg+pOWxPwDNx9AEAuArloaZXVwtCZRV4c5BAo="
+      "YamlDotNet.dll": "sha256-4sbw8XOVzLhWJUwkyKo3GBHM9ubVAF0Q2FbhYn3T5JY="
     },
     "extensions": null,
     "lazyAssembly": null,
